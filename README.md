@@ -32,7 +32,8 @@ O código Java consiste em três classes: `Main`, `ScrumBoard` e `Task`, que for
  seu Dockerfile e seu script PowerShell estão configurados corretamente para serem executados em um contêiner Docker. Você pode precisar ajustar algumas configurações dependendo do que seu script faz e dos requisitos do seu ambiente Docker.
 
 
-![Captura de tela 2024-03-06 225921](https://github.com/AntonioNeto504/Devops_Scrum/assets/143558933/f3aa1a39-b3be-4cdf-b57c-5d7b19ae2284)
+![Scrum](https://github.com/AntonioNeto504/Devops_Scrum/assets/143558933/ff5dc678-bbd4-45bf-9574-a952b8f5e5a7)
+
 
 
 Obs: O docker não possui nenhuma interação para com caminhos de pasta, logo o código dara erro caso não haja a configuração de caminhos adquados para rodar num conteiner
